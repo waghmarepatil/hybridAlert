@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-custom-alert",
+  "version": "0.0.1",
+  "description": "Provides custom alert",
+  "cordova": {
+    "id": "com.pramod.cordova.plugin.custom-alert",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+   "custom alert",
+   "android alert"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Pramod Waghmare",
+  "license": "Apache 2.0"
+}
